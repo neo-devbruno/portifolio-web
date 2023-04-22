@@ -10,7 +10,7 @@ h1 {
 }
 
 h2 {
-    font-family: "Montserrat";
+    font-family: "Ubuntu";
     font-weight: bold;
     color: #fff;
     font-size: 1.5rem;
@@ -23,6 +23,9 @@ h2 {
 
 .sobre-mim-texto {
     color: #fff;
+    font-family: "Russo One";
+    font-size: 1.5rem;
+    font-weight: normal;
 
 
 }
@@ -33,8 +36,31 @@ h2 {
 }
 
 .nav-link {
+    font-family: "Russo One";
     font-size: 1.3rem; 
-    margin-right: 30px;
+    margin-right: 20px;
+}
+
+h3 {
+    font-family: "Russo One";
+    font-weight: normal;
+    font-size: 2.5rem;
+    color: #363636;
+}
+
+h5 {
+    font-family: "Russo One";
+    font-weight:bold ;
+    font-size: 2rem;
+    color: #363636;
+
+}
+
+p  {
+    font-family: "Ubuntu";
+    font-weight: normal;
+    font-size: 1.5rem;
+    color: #363636;
 }
       
 
@@ -74,13 +100,7 @@ h2 {
 
 
 
-.redes-sociais h3 {
-    font-family: "Montserrat";
-    font-weight: bold;
-    font-size: 2.3rem;
-    color: #363636;
 
-}
 
 .icon {
     color: #363636;
@@ -112,4 +132,7 @@ h2 {
     width: 10%;
     margin: 20px 20px 50px;
 }
+
+
+/**animado*/
 
